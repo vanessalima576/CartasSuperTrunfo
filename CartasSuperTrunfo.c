@@ -6,9 +6,8 @@
 
 int main() {
  
-  // ==============================
+  
   // Área para definição das variáveis
-  // ==============================
 
   // Carta 1
   char codigo1[4];
@@ -24,10 +23,7 @@ int main() {
   float pib2;
   int pontos2;
 
-
-  // ==============================
   // Área para entrada de dados
-  // ==============================
 
   printf("=== Cadastro da Carta 1 ===\n");
 
@@ -65,9 +61,9 @@ int main() {
   scanf("%d", &pontos2);
 
 
-  // ==============================
+  
   // Área para exibição dos dados
-  // ==============================
+
 
   printf("\n===== CARTA 1 =====\n");
   printf("Codigo: %s\n", codigo1);
